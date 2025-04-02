@@ -11,6 +11,11 @@ usePopcorn is a movie discovery and watchlist application built with React. It a
   - Remove movies from the watchlist.
   - Rate the movies
   - Mark movies as watched with a personal rating.
+- **Movie Statistics** (Displayed above the watchlist):
+  - Total number of movies watched.
+  - Average global rating.
+  - Average rating given by the user.
+  - Average watch time.
 - **Local Storage Integration**: Saves the watchlist and watched movies persistently.
 - **Responsive UI**: Optimized for desktop and mobile screens.
 
