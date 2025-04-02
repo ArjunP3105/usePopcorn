@@ -24,7 +24,7 @@ usePopcorn is a movie discovery and watchlist application built with React. It a
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/usePopcorn.git
+   git clone https://github.com/ArjunP3105/usePopcorn
    ```
 2. Navigate to the project folder:
    ```sh
