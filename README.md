@@ -14,6 +14,25 @@ usePopcorn is a movie discovery and watchlist application built with React. It a
 - **Local Storage Integration**: Saves the watchlist and watched movies persistently.
 - **Responsive UI**: Optimized for desktop and mobile screens.
 
+## Explore the Feature 🕶
+
+**Homepage :**
+
+![default stage](https://github.com/user-attachments/assets/c102be1d-9752-4d28-8e6e-c90bd169fcc7)
+
+**Searching Movies :**
+
+![searching](https://github.com/user-attachments/assets/be3f2aa4-f0fe-4cbe-9a4f-46076e0fc08b)
+
+**Searched Movie Details :**
+
+![rating](https://github.com/user-attachments/assets/1fb34d64-61fc-4ccb-80a1-5ee03ee7644c)
+
+**Add to watchlist :**
+
+![adding to watchlist](https://github.com/user-attachments/assets/0d5e89a0-3986-47d1-abd7-d59def8935f2)
+
+
 ## Tech Stack 🛠️
 
 - React (useState, useEffect)
@@ -38,4 +57,10 @@ usePopcorn is a movie discovery and watchlist application built with React. It a
    ```sh
    npm start
    ```
+
+# Let's Connect! :
+
+LinkedIn - [Arjun P](https://www.linkedin.com/in/arjun-p-810a96318/) 
+
+GitHub - [ArjunP3105](https://github.com/ArjunP3105)
 
