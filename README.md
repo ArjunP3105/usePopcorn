@@ -18,7 +18,7 @@ usePopcorn is a movie discovery and watchlist application built with React. It a
 
 - React (useState, useEffect)
 - OMDB API for movie data
-- CSS (or Tailwind, if used)
+- CSS 
 
 ## Installation 🏗️
 
